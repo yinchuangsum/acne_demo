@@ -14,7 +14,7 @@ data = ImageDataBunch.from_folder(path, valid_pct=0.2, size=size, bs=bs)
 learner = cnn_learner(data, models.resnet18) # metrics=[accuracy], callback_fns=ShowGraph)
 learner.load('best_resnet')
 
-labels = ['level_0', 'level_1', 'level_2', 'normal']
+labels = ['level_0', 'level_1', 'level_2', 'normal' ]
 
 def load_model():
     return None
