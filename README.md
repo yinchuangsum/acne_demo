@@ -46,9 +46,11 @@ streamlit run main.py
 ## Results of AI Model
 The AI Model is able to achieve up to 90% accuracy by training with only 250 HD images from each classes. 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/22144223/172899927-31fe9853-21f6-4562-bb02-7874ee5ead0f.png" width="400"> | <img src="https://user-images.githubusercontent.com/22144223/172898955-6d6467ab-6d6c-4d9e-a142-7be887d74401.png" width="600">
+Accuracy             |  Loss Function |  Confusion Matrix
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/22144223/172899927-31fe9853-21f6-4562-bb02-7874ee5ead0f.png" width="400"> | <img src="https://user-images.githubusercontent.com/22144223/172898955-6d6467ab-6d6c-4d9e-a142-7be887d74401.png" width="400"> | <img src="https://user-images.githubusercontent.com/22144223/179527348-045a6f02-a2ca-44df-ac2d-cb550944d87b.png" width="400">
+
+
 
 ## Future Improvements
 1. Platform to discuss skin care products
