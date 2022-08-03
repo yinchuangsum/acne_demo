@@ -58,6 +58,14 @@ Accuracy             |  Loss Function |  Confusion Matrix
 3. Develop smartphone app
 4. More detailed classifier
 5. Higher Accuracy
+6. Implement Object Detection
+7. Suggest Possible Treatments
+8. Consult Dermatologist Virtually
+
+## Application
+Mobile App             |  Web App 
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/22144223/182114469-9dd0d709-3fa4-4927-8496-0685c5097d36.png" width="400"> | <img src="https://user-images.githubusercontent.com/22144223/182114931-f444a831-0ed7-457c-9d23-cb1812095c33.png" width="900"> |
 
 ## Additional Information
 Additional information about this project can be read [here](https://docs.google.com/presentation/d/1f4I75eh2MxlMGislCCR2iAQR7PfxG1FbuIr79Q8eg30/edit?usp=sharing).
